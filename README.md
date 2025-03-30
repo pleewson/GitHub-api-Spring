@@ -18,7 +18,7 @@ An application to fetch and display repository information for a GitHub user.
 1. **Clone the repository:**
 
     ```bash
-    git clone git@github.com:pleewson/GitHub-api.git
+    git clone git@github.com:pleewson/GitHub-api-Spring.git
     cd github-api-spring
     ```
 
